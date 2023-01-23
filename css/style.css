@@ -1,0 +1,37 @@
+/* Font Family */
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Manrope&family=Open+Sans&family=Poppins&family=Work+Sans:ital,wght@0,400;1,700&display=swap');
+/* Default */
+body{
+    font-family: 'Manrope', sans-serif;
+}
+.description, .btn-description{
+    color: #777777;
+}
+.btn-primary{
+    background: linear-gradient(270deg, #FF0000 0%, #FF8938 100%);
+}
+.product{
+    background: linear-gradient(180deg, #F4F4F4 0%, rgba(244, 244, 244, 0) 100%);
+}
+.one{
+    background: linear-gradient(270deg, #FF0000 0%, #FF8938 100%);
+    opacity: 0.1;
+}
+.two{
+    background: rgba(230, 166, 35, 0.1);
+}
+.three{
+    background: rgba(87, 118, 57, 0.1);
+}
+.four{
+    background: linear-gradient(90deg, #D9D9D9 0%, rgba(255, 255, 255, 0) 100%);
+}
+.clients-section{
+    background: linear-gradient(270deg, #FF0000 0%, #FF8938 100%);
+}
+.clients-btn{
+    color: #FF0000;
+}
+footer{
+    background: linear-gradient(270deg, rgba(255, 0, 0, 0.1) 0%, rgba(255, 137, 56, 0.1) 100%);
+}
